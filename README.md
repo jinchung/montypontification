@@ -1,0 +1,2 @@
+# montypontification
+Think Stats exercises
